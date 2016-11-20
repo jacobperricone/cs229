@@ -1,0 +1,319 @@
+PlayerID	PlayerName	PlayerTrueName	League	TeamName3	Year	Comment	StartDate	EndDate
+1	J. Howard	Howard, Josh	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+1	Howard	Howard, Josh	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+2	Thomas	Thomas, Kurt	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+2	K. Thomas	Thomas, Kurt	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+3	Dampier	Dampier, Erick	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+4	Marion	Marion, Shawn	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+5	Nowitzki	Nowitzki, Dirk	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+6	Terry	Terry, Jason	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+7	Bell	Bell, Raja	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+7	R. Bell	Bell, Raja	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+8	Nash	Nash, Steve	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+10	J. Jones	Jones, James	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+10	Ja. Jones	Jones, James	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+10	Jones	Jones, James	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+12	Diaw	Diaw, Boris	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+15	Harris	Harris, Devin	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+15	D. Harris	Harris, Devin	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+16	Barbosa	Barbosa, Leandro	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+17	Diop	Diop, DeSagana	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+20	House	House, Eddie	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+21	Martin	Martin, Kenyon	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+21	K. Martin	Martin, Kenyon	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+22	Nesterovic	Nesterovic, Rasho	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+23	Camby	Camby, Marcus	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+24	Ginobili	Ginobili, Manu	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+25	Anthony	Anthony, Carmelo	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+26	Duncan	Duncan, Tim	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+28	Bowen	Bowen, Bruce	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+28	B. Bowen	Bowen, Bruce	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+29	Finley	Finley, Michael	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+30	W. Parker	Parker, Tony	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+30	T. Parker	Parker, Tony	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+30	Parker	Parker, Tony	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+32	Horry	Horry, Robert	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+33	Barry	Barry, Brent	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+34	Nene	Hilario, Nene	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+34	Hilario	Hilario, Nene	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+36	Najera	Najera, Eduardo	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+37	Oberto	Oberto, Fabricio	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+39	Buckner	Buckner, Greg	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+40	Mohammed	Mohammed, Nazr	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+41	Johnson	Johnson, DerMarr	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+41	D. Johnson	Johnson, DerMarr	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+42	Elson	Elson, Francisco	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+44	Webber	Webber, Chris	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+46	Iverson	Iverson, Allen	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+47	Ford	Ford, T.J.	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+47	T. Ford	Ford, T.J.	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+62	Wells	Wells, Bonzi	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+63	E. Smith	Smith, J.R.	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+63	Smith	Smith, J.R.	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+66	P. Brown	Brown, Collier (P.J.)	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+66	C. Brown	Brown, Collier (P.J.)	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+66	Brown	Brown, Collier (P.J.)	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+71	Nachbar	Nachbar, Bostjan	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+87	Davis	Davis, Baron	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+87	B. Davis	Davis, Baron	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+90	J. Richardson	Richardson, Jason	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+90	Richardson	Richardson, Jason	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+93	Foyle	Foyle, Adonal	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+95	Harrington	Harrington, Al	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+98	Pietrus	Pietrus, Mickael	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+101	Biedrins	Biedrins, Andris	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+103	Fisher	Fisher, Derek	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+107	Cabarkapa	Cabarkapa, Zarko	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+110	Hinrich	Hinrich, Kirk	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+112	Nocioni	Nocioni, Andres	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+113	Duhon	Duhon, Chris	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+119	Gordon	Gordon, Ben	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+120	Sweetney	Sweetney, Michael	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+121	Songaila	Songaila, Darius	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+122	Deng	Deng, Luol	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+123	Ely	Ely, Melvin	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+129	JonesNotStarting	Jones, Jumaine	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+129	Ju. Jones	Jones, Jumaine	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+130	Allen	Allen, Malik	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+130	M. Allen	Allen, Malik	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+131	Piatkowski	Piatkowski, Eric	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+132	Okur	Okur, Mehmet	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+133	Giricek	Giricek, Gordan	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+136	Kirilenko	Kirilenko, Andrei	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+137	J. Collins	Collins, Jarron	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+137	Collins	Collins, Jarron	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+138	Harpring	Harpring, Matt	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+139	D. Williams	Williams, Deron	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+139	Williams	Williams, Deron	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+141	Humphries	Humphries, Kris	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+144	Battie	Battie, Tony	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+147	Jackson	Jackson, Stephen	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+148	Stevenson	Stevenson, DeShawn	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+149	D. Howard	Howard, Dwight	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+149	Howard	Howard, Dwight	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+150	Croshere	Croshere, Austin	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+151	Turkoglu	Turkoglu, Hedo	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+153	Jasikevicius	Jasikevicius, Sarunas	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+156	Outlaw	Outlaw, Bo	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+156	B. Outlaw	Outlaw, Bo	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+158	Nelson	Nelson, Jameer	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+158	J. Nelson	Nelson, Jameer	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+161	Garrity	Garrity, Pat	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+163	Evans	Evans, Reggie	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+163	R. Evans	Evans, Reggie	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+174	Murray	Murray, Ronald (Flip)	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+174	F. Murray	Murray, Ronald (Flip)	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+180	Radmanovic	Radmanovic, Vladimir	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+185	W. Parker	Parker, William (Smush)	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+185	S. Parker	Parker, William (Smush)	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+185	Parker	Parker, William (Smush)	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+186	K. Bryant	Bryant, Kobe	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+186	Bryant	Bryant, Kobe	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+187	Odom	Odom, Lamar	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+188	Mihm	Mihm, Chris	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+189	K. Brown	Brown, Kwame	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+189	Brown	Brown, Kwame	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+190	George	George, Devean	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+191	Cook	Cook, Brian	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+192	McKie	McKie, Aaron	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+193	Vujacic	Vujacic, Sasha	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+194	Bynum	Bynum, Andrew	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+194	A. Bynum	Bynum, Andrew	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+196	J. Williams	Williams, Jason	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+196	Williams	Williams, Jason	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+198	Battier	Battier, Shane	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+200	Walker	Walker, Antoine	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+200	A. Walker	Walker, Antoine	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+201	Haslem	Haslem, Udonis	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+202	Jones	Jones, Eddie	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+203	O'Neal	O'Neal, Shaquille	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+203	S. O'Neal	O'Neal, Shaquille	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+204	Wade	Wade, Dwayne	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+206	Mourning	Mourning, Alonzo	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+207	Payton	Payton, Gary	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+208	Tsakalidis	Tsakalidis, Jake	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+211	Kapono	Kapono, Jason	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+214	Wright	Wright, Dorell	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+214	D. Wright	Wright, Dorell	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+215	Barron	Barron, Earl	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+216	Simien	Simien, Wayne	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+220	Krstic	Krstic, Nenad	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+221	R. Jefferson	Jefferson, Richard	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+221	Jefferson	Jefferson, Richard	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+222	Kidd	Kidd, Jason	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+223	J. Collins	Collins, Jason	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+223	Collins	Collins, Jason	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+224	V. Carter	Carter, Vince	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+224	Carter	Carter, Vince	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+228	Robinson	Robinson, Clifford	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+228	C. Robinson	Robinson, Clifford	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+231	Vaughn	Vaughn, Jacque	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+232	Padgett	Padgett, Scott	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+241	Barnes	Barnes, Matt	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+245	Ariza	Ariza, Trevor	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+257	Gooden	Gooden, Drew	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+258	Ilgauskas	Ilgauskas, Zydrunas	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+260	James	James, LeBron	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+260	L. James	James, LeBron	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+261	L. Hughes	Hughes, Larry	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+261	Hughes	Hughes, Larry	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+262	Snow	Snow, Eric	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+263	Marshall	Marshall, Donyell	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+263	D. Marshall	Marshall, Donyell	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+264	D. Jones	Jones, Damon	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+264	Jones	Jones, Damon	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+265	Pavlovic	Pavlovic, Sasha	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+269	Jackson	Jackson, Luke	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+270	R. Hamilton	Hamilton, Richard	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+270	Hamilton	Hamilton, Richard	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+271	Billups	Billups, Chauncey	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+272	Prince	Prince, Tayshaun	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+273	B. Wallace	Wallace, Ben	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+273	Wallace	Wallace, Ben	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+274	R. Wallace	Wallace, Rasheed	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+274	Wallace	Wallace, Rasheed	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+275	McDyess	McDyess, Antonio	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+276	Evans	Evans, Maurice	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+276	M. Evans	Evans, Maurice	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+277	Arroyo	Arroyo, Carlos	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+278	Milicic	Milicic, Darko	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+279	Delfino	Delfino, Carlos	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+280	Maxiell	Maxiell, Jason	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+295	Dixon	Dixon, Juan	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+298	Carter	Carter, Anthony	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+302	Ming	Ming, Yao	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+302	Yao	Ming, Yao	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+304	Howard	Howard, Juwan	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+304	J. Howard	Howard, Juwan	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+305	McGrady	McGrady, Tracy	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+308	Alston	Alston, Rafer	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+309	Wesley	Wesley, David	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+312	Mutombo	Mutombo, Dikembe	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+313	Arenas	Arenas, Gilbert	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+314	Rose	Rose, Jalen	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+316	Jamison	Jamison, Antawn	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+317	J. Graham	Graham, Joey	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+317	Graham	Graham, Joey	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+319	Bosh	Bosh, Chris	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+321	A. Daniels	Daniels, Antonio	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+321	Daniels	Daniels, Antonio	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+322	Haywood	Haywood, Brendan	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+323	Thomas	Thomas, Etan	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+323	D. Thomas	Thomas, Etan	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+323	E. Thomas	Thomas, Etan	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+324	C. Butler	Butler, Caron	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+324	J. Butler	Butler, Caron	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+324	Butler	Butler, Caron	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+325	Araujo	Araujo, Rafael	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+326	Peterson	Peterson, Morris	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+328	Hayes	Hayes, Jarvis	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+328	J. Hayes	Hayes, Jarvis	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+329	Ruffin	Ruffin, Michael	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+330	Bonner	Bonner, Matt	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+331	Calderon	Calderon, Jose	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+344	Udrih	Udrih, Beno	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+349	Dupree	Dupree, Ronald	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+355	Blake	Blake, Steve	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+366	Bogans	Bogans, Keith	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+372	Head	Head, Luther	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+373	Booth	Booth, Calvin	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+391	D. Taylor	Taylor, Donell	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+391	Taylor	Taylor, Donell	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+392	Pollard	Pollard, Scot	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+397	Sampson	Sampson, Jamal	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+399	P. Burke	Burke, Pat	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+399	Burke	Burke, Pat	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+401	Posey	Posey, James	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+402	B. Robinson	Robinson, Bernard	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+405	D. Davis	Davis, Dale	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+405	Davis	Davis, Dale	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+405	E. Davis	Davis, Dale	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+410	Marks	Marks, Sean	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+411	Moore	Moore, Mikki	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+413	Blatche	Blatche, Andray	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+416	Snyder	Snyder, Kirk	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+417	Ellis	Ellis, Monta	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+419	Dooling	Dooling, Keyon	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+423	J. Butler	Butler, Jackie	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+423	Butler	Butler, Jackie	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+424	Sow	Sow, Pape	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+426	Miles	Miles, C.J.	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+430	Powell	Powell, Josh	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+436	D. Martin	Martin, Darrick	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+436	Martin	Martin, Darrick	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+439	Mbenga	Mbenga, DJ	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+444	Wright	Wright, Antoine	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+444	A. Wright	Wright, Antoine	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+450	Khryapa	Khryapa, Viktor	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+453	Diogu	Diogu, Ike	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+459	Walton	Walton, Luke	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+460	Doleac	Doleac, Michael	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+467	Griffin	Griffin, Adrian	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+467	A. Griffin	Griffin, Adrian	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+470	Diener	Diener, Travis	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+486	Hill	Hill, Grant	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+486	G. Hill	Hill, Grant	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+488	Banks	Banks, Marcus	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+489	Newble	Newble, Ira	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+492	Stackhouse	Stackhouse, Jerry	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+498	Lucas	Lucas, John	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+500	Andriuskevicius	Andriuskevicius, Martynas	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+505	Varejao	Varejao, Anderson	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+508	Hayes	Hayes, Chuck	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+508	C. Hayes	Hayes, Chuck	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+510	Johnson	Johnson, Amir	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+510	A. Johnson	Johnson, Amir	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+515	Hunter	Hunter, Lindsey	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+515	L. Hunter	Hunter, Lindsey	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+516	Turiaf	Turiaf, Ronny	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+517	Dw. Jones	Jones, Dwayne	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+518	Boozer	Boozer, Carlos	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+525	Barrett	Barrett, Andre	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+537	Stoudemire	Stoudemire, Amare	NBA	PHX	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+558	Sefolosha	Sefolosha, Thabo	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+559	T. Thomas	Thomas, Tyrus	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+559	Thomas	Thomas, Tyrus	NBA	CHI	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+560	S. Brown	Brown, Shannon	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+560	Brown	Brown, Shannon	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+561	Gibson	Gibson, Daniel	NBA	CLE	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+562	Ager	Ager, Maurice	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+563	Barea	Barea, Jose	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+564	Mensah-Bonsu	Mensah-Bonsu, Pops	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+565	Diawara	Diawara, Yakhouba	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+566	Blalock	Blalock, Will	NBA	DET	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+567	O'Bryant	O'Bryant, Patrick	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+569	Novak	Novak, Steve	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+570	Spanoulis	Spanoulis, Vassilis	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+571	Sura	Sura, Bob	NBA	HOU	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+575	Farmar	Farmar, Jordan	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+576	Williams	Williams, Shammond	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+576	S. Williams	Williams, Shammond	NBA	LAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+581	Quinn	Quinn, Chris	NBA	MIA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+590	Adams	Adams, Hassan	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+590	H. Adams	Adams, Hassan	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+591	Ilic	Ilic, Mile	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+592	M. Williams	Williams, Marcus	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+592	Williams	Williams, Marcus	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+593	Boone	Boone, Josh	NBA	NJN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+599	Redick	Redick, J.J.	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+600	Augustine	Augustine, James	NBA	ORL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+612	Bargnani	Bargnani, Andrea	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+614	Parker	Parker, Anthony	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+614	A. Parker	Parker, Anthony	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+616	Slokar	Slokar, Uros	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+617	Brewer	Brewer, Ronnie	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+619	Brown	Brown, Dee	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+619	D. Brown	Brown, Dee	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+620	Chase	Chase, Brian	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+621	Powell	Powell Jr, Roger	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+622	Mason	Mason, Roger	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+622	R. Mason	Mason, Roger	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+629	Millsap	Millsap, Paul	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+636	Garbajosa	Garbajosa, Jorge	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+636	Garbarjosa	Garbajosa, Jorge	NBA	TOR	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+640	Kleiza	Kleiza, Linas	NBA	DEN	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+643	Azubuike	Azubuike, Kelenna	NBA	GSW	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+653	Amundson	Amundson, Louis	NBA	UTA	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+654	White	White, James	NBA	SAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+656	Hall	Hall, Mike	NBA	WAS	2007 playoffs	SeasonStart	2007-04-20	2007-07-01
+658	Willis	Willis, Kevin	NBA	DAL	2007 playoffs	SeasonStart	2007-04-20	2007-07-01

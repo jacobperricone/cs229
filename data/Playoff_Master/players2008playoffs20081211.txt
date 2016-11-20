@@ -1,0 +1,233 @@
+PlayerID	PlayerName	PlayerTrueName	League	TeamName3	Year	Comment	StartDate	EndDate
+1	Jo. Howard	Howard, Josh	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+2	Thomas	Thomas, Kurt	NBA	SAS	2008 playoffs	Trade	2008-04-19	2008-07-01
+3	Dampier	Dampier, Erick	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+5	Nowitzki	Nowitzki, Dirk	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+6	Terry	Terry, Jason	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+7	Bell	Bell, Raja	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+8	Nash	Nash, Steve	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+12	Diaw	Diaw, Boris	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+16	Barbosa	Barbosa, Leandro	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+20	House	House, Eddie	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+21	Martin	Martin, Kenyon	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+22	Nesterovic	Nesterovic, Rasho	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+23	Camby	Camby, Marcus	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+24	Ginobili	Ginobili, Manu	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+25	Anthony	Anthony, Carmelo	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+26	Duncan	Duncan, Tim	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+28	Bowen	Bowen, Bruce	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+29	Finley	Finley, Michael	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+30	Parker	Parker, Tony	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+31	Miller	Miller, Andre	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+32	Horry	Horry, Robert	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+33	Barry	Barry, Brent	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+34	Nene	Hilario, Nene	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+34	Hilario	Hilario, Nene	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+36	Najera	Najera, Eduardo	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+37	Oberto	Oberto, Fabricio	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+41	Johnson	Johnson, DerMarr	NBA	SAS	2008 playoffs	20071230MEMSAS	2008-04-19	2008-07-01
+46	Iverson	Iverson, Allen	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+47	Ford	Ford, T.J.	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+50	Hunter	Hunter, Steven	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+51	Magloire	Magloire, Jamaal	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+52	Iguodala	Iguodala, Andre	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+54	Korver	Korver, Kyle	NBA	UTA	2008 playoffs	20071231PORUTA	2008-04-19	2008-07-01
+61	Ollie	Ollie, Kevin	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+62	Wells	Wells, Bonzi	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+63	Smith	Smith, J.R.	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+66	Brown	Brown, Collier (P.J.)	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+67	Stojakovic	Stojakovic, Peja	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+68	Bibby	Bibby, Mike	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+69	West	West, David	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+70	Paul	Paul, Chris	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+72	Claxton	Claxton, Speedy	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+73	Andersen	Andersen, Chris	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+75	Hart	Hart, Jason	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+76	Butler	Butler, Rasual	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+78	Skinner	Skinner, Brian	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+83	Bass	Bass, Brandon	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+85	Price	Price, Ronnie	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+86	Johnson	Johnson, Joe	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+88	Pachulia	Pachulia, Zaza	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+91	Childress	Childress, Josh	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+93	Foyle	Foyle, Adonal	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+94	Smith	Smith, Josh	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+96	Lue	Lue, Tyronn	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+97	Williams	Williams, Marvin	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+100	Stoudamire	Stoudamire, Salim	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+103	Fisher	Fisher, Derek	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+115	Brezec	Brezec, Primoz	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+118	Chandler	Chandler, Tyson	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+121	Songaila	Songaila, Darius	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+123	Ely	Ely, Melvin	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+130	Allen	Allen, Malik	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+131	Piatkowski	Piatkowski, Eric	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+132	Okur	Okur, Mehmet	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+133	Giricek	Giricek, Gordan	NBA	PHX	2008 playoffs	20080304PHXPOR	2008-04-19	2008-07-01
+136	Kirilenko	Kirilenko, Andrei	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+137	Collins	Collins, Jarron	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+138	Harpring	Harpring, Matt	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+139	Williams	Williams, Deron	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+140	Brown	Brown, Devin	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+141	Humphries	Humphries, Kris	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+144	Battie	Battie, Tony	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+146	Francis	Francis, Steve	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+148	Stevenson	Stevenson, DeShawn	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+149	Howard	Howard, Dwight	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+151	Turkoglu	Turkoglu, Hedo	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+158	Nelson	Nelson, Jameer	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+161	Garrity	Garrity, Pat	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+163	Evans	Evans, Reggie	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+165	Cassell	Cassell, Sam	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+166	R. Allen	Allen, Ray	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+170	Lewis	Lewis, Rashard	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+180	Radmanovic	Radmanovic, Vladimir	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+186	Bryant	Bryant, Kobe	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+187	Odom	Odom, Lamar	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+188	Mihm	Mihm, Chris	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+190	George	George, Devean	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+191	Cook	Cook, Brian	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+193	Vujacic	Vujacic, Sasha	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+194	Bynum	Bynum, Andrew	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+197	Gasol	Gasol, Pau	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+198	Battier	Battier, Shane	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+202	Jones	Jones, Eddie	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+203	O'Neal	O'Neal, Shaquille	NBA	PHX	2008 playoffs	Trade	2008-04-19	2008-07-01
+205	Stoudamire	Stoudamire, Damon	NBA	SAS	2008 playoffs	20080205SASIND	2008-04-19	2008-07-01
+210	Jackson	Jackson, Bobby	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+211	Kapono	Kapono, Jason	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+222	Kidd	Kidd, Jason	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+231	Vaughn	Vaughn, Jacque	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+239	West	West, Delonte	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+240	Pierce	Pierce, Paul	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+245	Ariza	Ariza, Trevor	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+252	Scalabrine	Scalabrine, Brian	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+253	Perkins	Perkins, Kendrick	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+258	Ilgauskas	Ilgauskas, Zydrunas	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+260	James	James, LeBron	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+262	Snow	Snow, Eric	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+264	Da. Jones	Jones, Damon	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+265	Pavlovic	Pavlovic, Sasha	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+270	Hamilton	Hamilton, Richard	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+271	Billups	Billups, Chauncey	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+272	Prince	Prince, Tayshaun	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+273	Wallace	Wallace, Ben	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+274	Wallace	Wallace, Rasheed	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+275	McDyess	McDyess, Antonio	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+276	Evans	Evans, Maurice	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+277	Arroyo	Arroyo, Carlos	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+279	Delfino	Delfino, Carlos	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+280	Maxiell	Maxiell, Jason	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+281	Williams	Williams, Louis	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+285	Garnett	Garnett, Kevin	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+288	Szczerbiak	Szczerbiak, Wally	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+295	Dixon	Dixon, Juan	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+297	Ratliff	Ratliff, Theo	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+298	Carter	Carter, Anthony	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+302	Ming	Ming, Yao	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+302	Yao	Ming, Yao	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+304	Ju. Howard	Howard, Juwan	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+305	McGrady	McGrady, Tracy	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+308	Alston	Alston, Rafer	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+311	Bowen	Bowen, Ryan	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+312	Mutombo	Mutombo, Dikembe	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+313	Arenas	Arenas, Gilbert	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+316	Jamison	Jamison, Antawn	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+317	Graham	Graham, Joey	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+318	James	James, Mike	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+319	Bosh	Bosh, Chris	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+320	Woods	Woods, Loren	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+321	Daniels	Daniels, Antonio	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+322	Haywood	Haywood, Brendan	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+323	Thomas	Thomas, Etan	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+324	Butler	Butler, Caron	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+326	Peterson	Peterson, Morris	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+328	Hayes	Hayes, Jarvis	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+330	Bonner	Bonner, Matt	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+331	Calderon	Calderon, Jose	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+332	Atkins	Atkins, Chucky	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+366	Bogans	Bogans, Keith	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+372	Head	Head, Luther	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+373	Booth	Booth, Calvin	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+383	Smith	Smith, Joe	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+389	Pargo	Pargo, Jannero	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+392	Pollard	Pollard, Scot	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+401	Posey	Posey, James	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+410	Marks	Marks, Sean	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+413	Blatche	Blatche, Andray	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+419	Dooling	Dooling, Keyon	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+426	Miles	Miles, C.J.	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+433	Randolph	Randolph, Shavlik	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+439	Mbenga	Mbenga, DJ	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+444	Wright	Wright, Antoine	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+458	Dalembert	Dalembert, Samuel	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+459	Walton	Walton, Luke	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+486	Hill	Hill, Grant	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+489	Newble	Newble, Ira	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+492	Stackhouse	Stackhouse, Jerry	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+501	T. Allen	Allen, Tony	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+505	Varejao	Varejao, Anderson	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+508	Hayes	Hayes, Chuck	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+510	Johnson	Johnson, Amir	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+515	Hunter	Hunter, Lindsey	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+516	Turiaf	Turiaf, Ronny	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+517	Dw. Jones	Jones, Dwayne	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+518	Boozer	Boozer, Carlos	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+531	Thomas	Thomas, Billy	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+537	Stoudemire	Stoudemire, Amare	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+541	Green	Green, Willie	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+544	Udoka	Udoka, Ime	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+550	Jones	Jones, Solomon	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+552	Powe	Powe, Leon	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+553	Rondo	Rondo, Rajon	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+556	Herrmann	Herrmann, Walter	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+561	Gibson	Gibson, Daniel	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+563	Barea	Barea, Jose	NBA	DAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+565	Diawara	Diawara, Yakhouba	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+569	Novak	Novak, Steve	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+572	Baston	Baston, Maceo	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+575	Farmar	Farmar, Jordan	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+594	Armstrong	Armstrong, Hilton	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+599	Redick	Redick, J.J.	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+600	Augustine	Augustine, James	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+601	Carney	Carney, Rodney	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+602	Jones	Jones, Bobby	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+612	Bargnani	Bargnani, Andrea	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+614	Parker	Parker, Anthony	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+617	Brewer	Brewer, Ronnie	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+622	Mason	Mason, Roger	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+629	Millsap	Millsap, Paul	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+636	Garbarjosa	Garbajosa, Jorge	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+636	Garbajosa	Garbajosa, Jorge	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+640	Kleiza	Kleiza, Linas	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+650	Richardson	Richardson, Jeremy	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+653	Amundson	Amundson, Louis	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+660	Mahinmi	Mahinmi, Ian	NBA	SAS	2008 playoffs	Season Start	2008-04-19	2008-07-01
+663	Green	Green, Taurean	NBA	DEN	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+664	Karl	Karl, Coby	NBA	LAL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+666	Brooks	Brooks, Aaron	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+667	Landry	Landry, Carl	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+668	Almond	Almond, Morris	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+669	Fesenko	Fesenko, Kyrylo	NBA	UTA	2008 playoffs	Season Start	2008-04-19	2008-07-01
+674	Scola	Scola, Luis	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+675	Davis	Davis, Glen	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+676	Pruitt	Pruitt, Gabe	NBA	BOS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+680	Hill	Hill, Herbert	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+681	Young	Young, Thaddeus	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+682	Moon	Moon, Jamario	NBA	TOR	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+689	Afflalo	Afflalo, Arron	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+690	Samb	Samb, Cheikh	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+691	Stuckey	Stuckey, Rodney	NBA	DET	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+695	Horford	Horford, Al	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+696	Law	Law, Acie	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+697	West	West, Mario	NBA	ATL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+702	Gortat	Gortat, Marcin	NBA	ORL	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+703	McGuire	McGuire, Dominic	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+704	Pecherov	Pecherov, Oleksiy	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+705	Young	Young, Nick	NBA	WAS	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+711	Wright	Wright, Julian	NBA	NOH	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+717	Strawberry	Strawberry, D. J.	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+718	Tucker	Tucker, Alando	NBA	PHX	2008 playoffs	Season Start	2008-04-19	2008-07-01
+722	Smith	Smith, Jason	NBA	PHI	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+729	Harris	Harris, Mike	NBA	HOU	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
+730	Allred	Allred, Lance	NBA	CLE	2008 playoffs	SeasonStart	2008-04-19	2008-07-01
